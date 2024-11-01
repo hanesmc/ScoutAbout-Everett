@@ -31,7 +31,7 @@ sections:
         description: Just plug it in.
         icon: i-heroicons-cog
       - name: Reliable
-        description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+        description: Never breaks down.
         icon: i-heroicons-check
       - name: Secure
         description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing.
