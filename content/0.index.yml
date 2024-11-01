@@ -34,7 +34,7 @@ sections:
         description: Never breaks down.
         icon: i-heroicons-check
       - name: Secure
-        description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing.
+        description: Your data is safe.
         icon: i-heroicons-lock-closed
     links:
       - label: Explore components
