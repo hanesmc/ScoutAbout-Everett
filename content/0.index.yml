@@ -23,7 +23,7 @@ hero:
       target: _blank
 sections:
   - title: The power of our service
-    description: ScoutAbout is a powerful platform.
+    description: Aliqua labore laboris fugiat. Reprehenderit exercitation eu commodo. Officia nostrud sit et aliqua ea ex sunt minim incididunt sunt.
     id: features
     align: left
     features:
@@ -34,7 +34,7 @@ sections:
         description: Never breaks down.
         icon: i-heroicons-check
       - name: Secure
-        description: Your data is safe.
+        description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing.
         icon: i-heroicons-lock-closed
     links:
       - label: Explore components
@@ -45,7 +45,7 @@ sections:
         size: md
         class: ml-8
   - title: The speed of our service
-    description: Cillum sint enim excepteur ut deserunt qui nisi in deserunt in. Deserunt aliquip quis aliquip eu quis ex velit velit nostrud sit.
+    description: It's really fast.
     align: right
     features:
       - name: Fast
